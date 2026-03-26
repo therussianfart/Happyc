@@ -1,10 +1,8 @@
-// Functions can be defined in any order
-func main() {
-    greet();
-}
+let var = 1;
 
-func greet() {
-    print("Enter your name: ");
-    let name = User_input();
-    println("Hello " + name);
+
+if var = 1 {
+    println("one");
+} else {
+    println("not one");
 }
