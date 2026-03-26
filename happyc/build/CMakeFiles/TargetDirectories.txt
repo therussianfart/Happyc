@@ -1,0 +1,3 @@
+C:/Users/andrew/Desktop/happyc/build/CMakeFiles/hc.dir
+C:/Users/andrew/Desktop/happyc/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/andrew/Desktop/happyc/build/CMakeFiles/ZERO_CHECK.dir

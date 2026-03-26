@@ -1,0 +1,59 @@
+HappyC (hc) Syntax Examples & Notes
+1. Variable Declaration
+let var = 1;
+
+Notes:
+
+Variables are declared using the let keyword.
+The type is automatically detected:
+Integer if the value is a whole number.
+Float only if the number contains a decimal.
+Boolean if the value is true or false.
+2. User Input
+let input = User_input();
+
+Notes:
+
+User_input() is used to get input from the user.
+Parentheses () can contain arguments to customize the input behavior (optional).
+3. Function Declaration
+func main() {
+    // function content goes here
+}
+
+Notes:
+
+Functions are declared using the func keyword.
+{} encloses the function body.
+() after the function name is used for passing arguments.
+4. Conditional Statements
+if var = 1 {
+    print("Hello World");
+}
+
+Notes:
+
+if is used to check conditions.
+The condition goes inside if and {} contains the code to execute if true.
+print(""); is used to output text or variable values.
+Text strings must be inside quotes " ".
+Variables can be printed directly without quotes.
+
+
+
+
+
+
+Additional Notes
+File format for HappyC code should use the .hc extension.
+i want to code it with cpp
+
+Example of a complete small program:
+let var = 1;
+let name = User_input();
+
+func main() {
+    if var = 1 {
+        print("Hello " + name);
+    }
+}
